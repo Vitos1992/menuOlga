@@ -1,0 +1,74 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    color: #434455;
+    margin: 0 auto;
+    background-image: url(../img/body/Rectangle\ 1079.jpg);
+}
+
+p,
+h1,
+h2,
+h3,
+h4 {
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+
+
+.page-header {}
+
+.head-nav {
+    display: flex;
+    flex-direction: column-reverse;
+
+}
+
+.btn_alaska {
+    width: 252px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    border: 2px solid #fff;
+}
+
+.href-alaska {
+    color: #F1E210;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.ulHead {}
+
+.list-head {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.btn_online {
+    display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    width: 193px;
+    height: 48px;
+    border: 2px solid #000000;
+    border-radius: 16px;
+    
+
+}
+
+.href-online {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+}
